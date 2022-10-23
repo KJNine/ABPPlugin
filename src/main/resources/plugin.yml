@@ -1,0 +1,14 @@
+name: ABPPlugin
+version: '${project.version}'
+main: net.kjnine.abpplugin.ABPPlugin
+api-version: 1.19
+depend: [ ProtocolLib ]
+authors: [ KJNine ]
+description: Adapter for AccurateBlockPlacement packet-protocol used by Tweakeroo and Litematica.
+commands:
+  abp-enable:
+    description: Enable (per-player) directional block placement from Tweakeroo/Litematica mods.
+    permission: abp.enable
+permissions:
+  abp.enable:
+    default: true
