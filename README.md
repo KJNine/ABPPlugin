@@ -1,5 +1,6 @@
 # ABPPlugin
-Spigot Plugin to support Carpet AccurateBlockPlacement Protocol
+Spigot Plugin to support Carpet AccurateBlockPlacement Protocol.
+
 Requires ProtocolLib v5.0.0-SNAPSHOT-b602 (build #602) or higher.
 
 [Find the latest build of ProtocolLib here](https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/)
